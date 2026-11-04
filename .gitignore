@@ -1,0 +1,12 @@
+bin/
+out/
+dist/
+.build/
+*.keys
+.DS_Store
+/swtr
+/switch-translator
+# ffmpeg каждой платформы скачивается tools/fetch-ffmpeg.sh и вшивается при сборке
+internal/ffmpeg/bin/*/*.zst
+internal/ffmpeg/bin/*/VERSION
+brag-output/
