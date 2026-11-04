@@ -52,8 +52,9 @@ The tabs follow the workflow:
 ## Engines and games we tested
 
 Every game below was opened, analyzed and built into a mod with real game files. The mods were read back and
-checked. On a real console we have run Ring Fit Adventure and Captain Toad: Treasure Tracker (NSZ image with
-translated text and voice-over); games on the other engines have not been run on a console yet.
+checked. On a real console we have run Ring Fit Adventure (Nintendo, NSZ image with translated text and voice-over)
+and PAW Patrol World (Unreal Engine, translation patch `.pak`); Unity, LEGO and Galaxy games have not been run on a
+console yet.
 
 | Engine / format | Games | Text | Voice-over | Videos |
 |---|---|---|---|---|
