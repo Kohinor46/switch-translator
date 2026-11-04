@@ -52,7 +52,8 @@ The tabs follow the workflow:
 ## Engines and games we tested
 
 Every game below was opened, analyzed and built into a mod with real game files. The mods were read back and
-checked, but they have not been tested on a console yet.
+checked. On a real console we have run Ring Fit Adventure and Captain Toad: Treasure Tracker (NSZ image with
+translated text and voice-over); games on the other engines have not been run on a console yet.
 
 | Engine / format | Games | Text | Voice-over | Videos |
 |---|---|---|---|---|
