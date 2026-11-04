@@ -125,6 +125,8 @@ see `internal/project/allgames_test.go`).
 
 ## Licenses
 
+Switch Translator itself is released under the MIT License (`LICENSE`). Bundled components keep their own licenses:
+
 - Embedded ffmpeg: GPL builds (BtbN, martin-riedl.de), see `internal/ffmpeg/LICENSE.md`.
 - whisper.cpp and ggml: MIT (`internal/whisper/csrc/LICENSE`).
 - Noto Sans for drawn letters and subtitles: OFL (`internal/bffnt/fonts`).

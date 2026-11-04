@@ -222,6 +222,8 @@ go test ./...
 
 ## Лицензии
 
+Сам Switch Translator — под лицензией MIT (`LICENSE`). У встроенных компонентов — свои лицензии:
+
 - Встроенный ffmpeg — сборки GPL (BtbN, martin-riedl.de), см. `internal/ffmpeg/LICENSE.md`.
 - whisper.cpp и ggml — MIT (`internal/whisper/csrc/LICENSE`).
 - Noto Sans для дорисованных букв и субтитров — OFL (`internal/bffnt/fonts`).
